@@ -1,9 +1,9 @@
-<x-app-layout title="About Us - ZippyRent">
+<x-app-layout title="About Us - RisiRent">
     <!-- Hero Section -->
     <section class="bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-16 lg:py-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center">
-                <h1 class="text-4xl lg:text-6xl font-bold mb-6">About ZippyRent</h1>
+                <h1 class="text-4xl lg:text-6xl font-bold mb-6">About RisiRent</h1>
                 <p class="text-xl lg:text-2xl text-blue-100 max-w-3xl mx-auto">
                     Your trusted partner in finding the perfect home in Uganda
                 </p>
@@ -18,7 +18,7 @@
                 <div>
                     <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">Our Mission</h2>
                     <p class="text-lg text-gray-600 mb-6">
-                        At ZippyRent, we believe everyone deserves a place to call home. Our mission is to simplify the property rental process in Uganda by connecting tenants with quality properties and providing exceptional service throughout their rental journey.
+                        At RisiRent, we believe everyone deserves a place to call home. Our mission is to simplify the property rental process in Uganda by connecting tenants with quality properties and providing exceptional service throughout their rental journey.
                     </p>
                     <p class="text-lg text-gray-600">
                         We're committed to transparency, reliability, and making property rental accessible to everyone, from students to families to professionals.
@@ -45,7 +45,7 @@
             <div class="text-center mb-16">
                 <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">Our Values</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-                    These core values guide everything we do at ZippyRent
+                    These core values guide everything we do at RisiRent
                 </p>
             </div>
 
@@ -90,7 +90,7 @@
     <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">Why Choose ZippyRent?</h2>
+                <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">Why Choose RisiRent?</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">
                     We're more than just a property listing platform. We're your partner in finding the perfect home.
                 </p>
@@ -149,7 +149,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 class="text-3xl lg:text-4xl font-bold mb-6">Ready to Find Your Perfect Home?</h2>
             <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-                Join thousands of satisfied customers who found their dream home through ZippyRent.
+                Join thousands of satisfied customers who found their dream home through RisiRent.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="{{ route('properties.index') }}" class="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">

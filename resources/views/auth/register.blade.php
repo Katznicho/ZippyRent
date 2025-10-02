@@ -1,4 +1,4 @@
-<x-app-layout title="Register - ZippyRent" description="Create your ZippyRent account to start listing and managing properties.">
+<x-app-layout title="Register - RisiRent" description="Create your RisiRent account to start listing and managing properties.">
     <div class="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div class="max-w-md w-full space-y-8">
             <!-- Header -->
@@ -13,7 +13,7 @@
                     </div>
                 </div>
                 <h2 class="mt-6 text-3xl font-bold text-gray-900">
-                    Join ZippyRent
+                    Join RisiRent
                 </h2>
                 <p class="mt-2 text-sm text-gray-600">
                     Create your account to start managing properties

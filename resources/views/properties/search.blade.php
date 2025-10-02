@@ -1,4 +1,4 @@
-<x-app-layout title="Search Properties - ZippyRent" description="Find your perfect property with our advanced search and filtering options.">
+<x-app-layout title="Search Properties - RisiRent" description="Find your perfect property with our advanced search and filtering options.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Search Header -->
         <div class="bg-white shadow-sm border-b">

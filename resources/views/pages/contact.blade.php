@@ -1,4 +1,4 @@
-<x-app-layout title="Contact Us - ZippyRent" description="Get in touch with ZippyRent for property inquiries, support, or partnerships. We're here to help you find your perfect home in Uganda.">
+<x-app-layout title="Contact Us - RisiRent" description="Get in touch with RisiRent for property inquiries, support, or partnerships. We're here to help you find your perfect home in Uganda.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Hero Section -->
         <section class="relative bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white overflow-hidden">
@@ -79,8 +79,8 @@
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Email Us</h3>
                         <p class="text-gray-600 mb-4">Detailed inquiries welcome</p>
-                        <a href="mailto:info@zippyrent.ug" class="text-blue-600 font-semibold hover:text-blue-700">
-                            info@zippyrent.ug
+                        <a href="mailto:info@zippyug.com" class="text-blue-600 font-semibold hover:text-blue-700">
+                            info@zippyug.com
                         </a>
                     </div>
 
@@ -230,7 +230,7 @@
                                     </div>
                                     <div>
                                         <h4 class="font-semibold text-gray-900 mb-1">Email</h4>
-                                        <p class="text-gray-600">info@zippyrent.ug</p>
+                                        <p class="text-gray-600">info@zippyug.com</p>
                                     </div>
                                 </div>
                                 

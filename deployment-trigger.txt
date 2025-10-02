@@ -1,0 +1,4 @@
+Deployment trigger file - created to trigger GitHub Actions workflow
+Timestamp: $(date)
+Domain: zippyug.com
+Deployment path: /home/u227994091/domains/zippyug.com/public_html

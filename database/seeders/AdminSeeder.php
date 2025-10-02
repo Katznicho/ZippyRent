@@ -18,7 +18,7 @@ class AdminSeeder extends Seeder
         User::create([
             'name' => 'Admin User',
             'username' => 'admin',
-            'email' => 'admin@zippyrent.ug',
+            'email' => 'admin@zippyug.com',
             'phone' => '+256759983853',
             'role' => 'admin',
             'password' => Hash::make('password'),
@@ -28,7 +28,7 @@ class AdminSeeder extends Seeder
         User::create([
             'name' => 'Property Owner',
             'username' => 'propertyowner',
-            'email' => 'owner@zippyrent.ug',
+            'email' => 'owner@zippyug.com',
             'phone' => '+256759983854',
             'role' => 'property_owner',
             'password' => Hash::make('password'),
@@ -38,15 +38,15 @@ class AdminSeeder extends Seeder
         User::create([
             'name' => 'Property Agent',
             'username' => 'agent',
-            'email' => 'agent@zippyrent.ug',
+            'email' => 'agent@zippyug.com',
             'phone' => '+256759983855',
             'role' => 'agent',
             'password' => Hash::make('password'),
         ]);
 
         $this->command->info('Demo users created successfully!');
-        $this->command->info('Admin - Email: admin@zippyrent.ug | Password: password');
-        $this->command->info('Property Owner - Email: owner@zippyrent.ug | Password: password');
-        $this->command->info('Agent - Email: agent@zippyrent.ug | Password: password');
+        $this->command->info('Admin - Email: admin@zippyug.com | Password: password');
+        $this->command->info('Property Owner - Email: owner@zippyug.com | Password: password');
+        $this->command->info('Agent - Email: agent@zippyug.com | Password: password');
     }
 }

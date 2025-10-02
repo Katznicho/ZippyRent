@@ -1,4 +1,4 @@
-<x-app-layout title="Login - ZippyRent" description="Login to your ZippyRent account to manage your properties and access exclusive features.">
+<x-app-layout title="Login - RisiRent" description="Login to your RisiRent account to manage your properties and access exclusive features.">
     <div class="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div class="max-w-md w-full space-y-8">
             <!-- Header -->
@@ -16,7 +16,7 @@
                     Welcome Back
                 </h2>
                 <p class="mt-2 text-sm text-gray-600">
-                    Sign in to your ZippyRent account
+                    Sign in to your RisiRent account
                 </p>
             </div>
 
@@ -121,15 +121,15 @@
                 <div class="space-y-3 text-sm">
                     <div class="bg-white rounded-lg p-3">
                         <div class="font-medium text-gray-900">Admin</div>
-                        <div class="text-gray-600">Email: admin@zippyrent.ug | Password: password</div>
+                        <div class="text-gray-600">Email: admin@zippyug.com | Password: password</div>
                     </div>
                     <div class="bg-white rounded-lg p-3">
                         <div class="font-medium text-gray-900">Property Owner</div>
-                        <div class="text-gray-600">Email: owner@zippyrent.ug | Password: password</div>
+                        <div class="text-gray-600">Email: owner@zippyug.com | Password: password</div>
                     </div>
                     <div class="bg-white rounded-lg p-3">
                         <div class="font-medium text-gray-900">Agent</div>
-                        <div class="text-gray-600">Email: agent@zippyrent.ug | Password: password</div>
+                        <div class="text-gray-600">Email: agent@zippyug.com | Password: password</div>
                     </div>
                 </div>
             </div>

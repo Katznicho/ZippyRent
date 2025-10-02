@@ -1,4 +1,4 @@
-<x-app-layout title="About Us - ZippyRent" description="Learn about ZippyRent, Uganda's premier property rental platform. Our mission, values, and commitment to providing exceptional property management services.">
+<x-app-layout title="About Us - RisiRent" description="Learn about RisiRent, Uganda's premier property rental platform. Our mission, values, and commitment to providing exceptional property management services.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Hero Section -->
         <section class="relative bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white overflow-hidden">
@@ -17,7 +17,7 @@
                         <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
                             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
                         </svg>
-                        About ZippyRent
+                        About RisiRent
                     </div>
                     <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 leading-tight">
                         Uganda's Premier
@@ -89,7 +89,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 mb-2">The Beginning</h4>
-                                    <p class="text-gray-600">ZippyRent was born from a simple observation: finding quality rental properties in Uganda was unnecessarily complicated and time-consuming.</p>
+                                    <p class="text-gray-600">RisiRent was born from a simple observation: finding quality rental properties in Uganda was unnecessarily complicated and time-consuming.</p>
                                 </div>
                             </div>
                             <div class="flex items-start space-x-4">
@@ -222,7 +222,7 @@
                         </div>
                         <div class="p-6">
                             <p class="text-gray-600 text-sm leading-relaxed">
-                                With over 10 years in real estate, Sarah leads ZippyRent's vision of revolutionizing property rentals in Uganda.
+                                With over 10 years in real estate, Sarah leads RisiRent's vision of revolutionizing property rentals in Uganda.
                             </p>
                         </div>
                     </div>
@@ -242,7 +242,7 @@
                         </div>
                         <div class="p-6">
                             <p class="text-gray-600 text-sm leading-relaxed">
-                                Michael drives our technological innovation, ensuring ZippyRent stays at the forefront of digital property solutions.
+                                Michael drives our technological innovation, ensuring RisiRent stays at the forefront of digital property solutions.
                             </p>
                         </div>
                     </div>
@@ -275,7 +275,7 @@
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                 <h2 class="text-3xl sm:text-4xl font-bold mb-6">Ready to Find Your Perfect Home?</h2>
                 <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-                    Join thousands of satisfied clients who have found their dream properties through ZippyRent
+                    Join thousands of satisfied clients who have found their dream properties through RisiRent
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                     <a href="{{ route('properties.index') }}" class="bg-white text-blue-600 px-8 py-4 rounded-xl font-semibold hover:bg-gray-100 transition-colors">

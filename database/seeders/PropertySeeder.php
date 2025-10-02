@@ -18,7 +18,7 @@ class PropertySeeder extends Seeder
         $agents = User::where('role', 'agent')->get();
 
         // Properties for Sarah (Property Owner)
-        $sarah = $propertyOwners->where('email', 'sarah@zippyrent.ug')->first();
+        $sarah = $propertyOwners->where('email', 'sarah@zippyug.com')->first();
         if ($sarah) {
             Property::create([
                 'title' => 'Modern 3-Bedroom Apartment in Kololo',
@@ -56,7 +56,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Michael (Property Owner)
-        $michael = $propertyOwners->where('email', 'michael@zippyrent.ug')->first();
+        $michael = $propertyOwners->where('email', 'michael@zippyug.com')->first();
         if ($michael) {
             Property::create([
                 'title' => 'Cozy 2-Bedroom House in Bugolobi',
@@ -94,7 +94,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Grace (Property Owner)
-        $grace = $propertyOwners->where('email', 'grace@zippyrent.ug')->first();
+        $grace = $propertyOwners->where('email', 'grace@zippyug.com')->first();
         if ($grace) {
             Property::create([
                 'title' => 'Executive 4-Bedroom Apartment in Nakawa',
@@ -132,7 +132,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for David (Property Owner)
-        $david = $propertyOwners->where('email', 'david@zippyrent.ug')->first();
+        $david = $propertyOwners->where('email', 'david@zippyug.com')->first();
         if ($david) {
             Property::create([
                 'title' => 'Penthouse in Kampala Central',
@@ -170,7 +170,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Agent Peter
-        $peter = $agents->where('email', 'peter@zippyrent.ug')->first();
+        $peter = $agents->where('email', 'peter@zippyug.com')->first();
         if ($peter) {
             Property::create([
                 'title' => 'Modern 2-Bedroom Apartment in Kololo',
@@ -208,7 +208,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Agent Mary
-        $mary = $agents->where('email', 'mary@zippyrent.ug')->first();
+        $mary = $agents->where('email', 'mary@zippyug.com')->first();
         if ($mary) {
             Property::create([
                 'title' => 'Cozy House in Bugolobi',
@@ -246,7 +246,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Agent James
-        $james = $agents->where('email', 'james@zippyrent.ug')->first();
+        $james = $agents->where('email', 'james@zippyug.com')->first();
         if ($james) {
             Property::create([
                 'title' => 'Spacious Apartment in Nakawa',
@@ -267,7 +267,7 @@ class PropertySeeder extends Seeder
         }
 
         // Properties for Agent Rose
-        $rose = $agents->where('email', 'rose@zippyrent.ug')->first();
+        $rose = $agents->where('email', 'rose@zippyug.com')->first();
         if ($rose) {
             Property::create([
                 'title' => 'Modern House in Muyenga',

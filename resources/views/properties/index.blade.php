@@ -1,4 +1,4 @@
-<x-app-layout title="Properties - ZippyRent" description="Browse our premium selection of rental properties in Uganda. Find your perfect home with ZippyRent.">
+<x-app-layout title="Properties - RisiRent" description="Browse our premium selection of rental properties in Uganda. Find your perfect home with RisiRent.">
     <div class="min-h-screen bg-gray-50">
         <!-- Hero Section -->
         <div class="bg-gradient-to-r from-blue-600 to-blue-700 text-white py-16">
@@ -219,7 +219,7 @@
 
     <!-- Floating WhatsApp Button -->
     <div class="fixed bottom-6 right-6 z-50 group">
-        <a href="https://wa.me/256759983853?text=Hi%20I%20would%20like%20to%20know%20more%20about%20ZippyRent%20properties" 
+        <a href="https://wa.me/256759983853?text=Hi%20I%20would%20like%20to%20know%20more%20about%20RisiRent%20properties" 
            target="_blank" 
            class="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 animate-pulse">
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">

@@ -1,4 +1,4 @@
-<x-app-layout title="Contact Us - ZippyRent">
+<x-app-layout title="Contact Us - RisiRent">
     <!-- Hero Section -->
     <section class="bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-16 lg:py-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -119,8 +119,8 @@
                                     <p class="text-gray-600">Send us an email</p>
                                 </div>
                             </div>
-                            <a href="mailto:info@zippyrent.ug" class="text-blue-600 hover:text-blue-700 font-medium">
-                                info@zippyrent.ug
+                            <a href="mailto:info@zippyug.com" class="text-blue-600 hover:text-blue-700 font-medium">
+                                info@zippyug.com
                             </a>
                         </div>
 
