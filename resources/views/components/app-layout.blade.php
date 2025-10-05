@@ -5,32 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}</title>
+    <title>{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}</title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="{{ $description ?? 'Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda. Professional property management and guided tours.' }}">
-    <meta name="keywords" content="{{ $keywords ?? 'property rental, Uganda, apartments, houses, villas, real estate, Kampala, property management, rent, home, RisiRent' }}">
+    <meta name="description" content="{{ $description ?? 'Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda. Professional property management and guided tours.' }}">
+    <meta name="keywords" content="{{ $keywords ?? 'property rental, Uganda, apartments, houses, villas, real estate, Kampala, property management, rent, home, ZippyRent' }}">
     <meta name="robots" content="index, follow">
     <meta name="language" content="en">
-    <meta name="author" content="RisiRent">
+    <meta name="author" content="ZippyRent">
     <meta name="theme-color" content="#2563EB">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="apple-mobile-web-app-title" content="RisiRent">
+    <meta name="apple-mobile-web-app-title" content="ZippyRent">
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}">
-    <meta property="og:description" content="{{ $description ?? 'Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda.' }}">
+    <meta property="og:title" content="{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}">
+    <meta property="og:description" content="{{ $description ?? 'Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda.' }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:image" content="{{ asset('favicon.svg') }}">
-    <meta property="og:site_name" content="RisiRent">
+    <meta property="og:site_name" content="ZippyRent">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}">
-    <meta name="twitter:description" content="{{ $description ?? 'Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda.' }}">
+    <meta name="twitter:title" content="{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}">
+    <meta name="twitter:description" content="{{ $description ?? 'Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda.' }}">
     <meta name="twitter:image" content="{{ asset('favicon.svg') }}">
 
     <!-- Canonical URL -->
@@ -82,10 +82,10 @@
                 <div class="flex items-center">
                     <a href="{{ route('home') }}" class="flex items-center space-x-2 sm:space-x-3 group">
                         <div class="flex-shrink-0">
-                            <img src="{{ asset('favicon.svg') }}" alt="RisiRent Logo" class="h-8 w-8 sm:h-9 sm:w-9 lg:h-10 lg:w-10 group-hover:scale-110 transition-transform duration-200">
+                            <img src="{{ asset('favicon.svg') }}" alt="ZippyRent Logo" class="h-8 w-8 sm:h-9 sm:w-9 lg:h-10 lg:w-10 group-hover:scale-110 transition-transform duration-200">
                         </div>
                         <div class="block">
-                            <h1 class="text-sm sm:text-lg lg:text-xl xl:text-2xl font-bold text-black group-hover:text-blue-600 transition-colors duration-200" style="color: #000000 !important;">RisiRent</h1>
+                            <h1 class="text-sm sm:text-lg lg:text-xl xl:text-2xl font-bold text-black group-hover:text-blue-600 transition-colors duration-200" style="color: #000000 !important;">ZippyRent</h1>
                             <p class="text-xs text-gray-700 -mt-1 block" style="color: #374151 !important;">Premium Properties</p>
                         </div>
                     </a>
@@ -232,7 +232,7 @@
     <!-- Footer -->
     <footer class="bg-black text-white py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p>&copy; {{ date('Y') }} RisiRent. All rights reserved. | Premium Property Rentals in Uganda</p>
+            <p>&copy; {{ date('Y') }} ZippyRent. All rights reserved. | Premium Property Rentals in Uganda</p>
         </div>
     </footer>
 

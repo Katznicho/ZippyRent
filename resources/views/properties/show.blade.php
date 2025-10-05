@@ -1,4 +1,4 @@
-<x-app-layout title="{{ $property->title }} - RisiRent" description="{{ Str::limit($property->description, 160) }}">
+<x-app-layout title="{{ $property->title }} - ZippyRent" description="{{ Str::limit($property->description, 160) }}">
     <div class="bg-gray-50 min-h-screen">
         <!-- Property Header -->
         <div class="bg-white shadow-sm">

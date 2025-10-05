@@ -1,4 +1,4 @@
-<x-app-layout title="Contact Us - RisiRent">
+<x-app-layout title="Contact Us - ZippyRent">
     <!-- Hero Section -->
     <section class="bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-16 lg:py-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

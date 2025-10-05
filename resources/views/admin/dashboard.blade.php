@@ -1,4 +1,4 @@
-<x-app-layout title="Admin Dashboard - RisiRent" description="Admin dashboard for managing RisiRent platform.">
+<x-app-layout title="Admin Dashboard - ZippyRent" description="Admin dashboard for managing ZippyRent platform.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Header -->
         <div class="bg-white shadow-sm border-b">

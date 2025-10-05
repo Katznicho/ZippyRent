@@ -1,4 +1,4 @@
-<x-app-layout title="Login - RisiRent" description="Login to your RisiRent account to manage your properties and access exclusive features.">
+<x-app-layout title="Login - ZippyRent" description="Login to your ZippyRent account to manage your properties and access exclusive features.">
     <div class="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div class="max-w-md w-full space-y-8">
             <!-- Header -->
@@ -16,7 +16,7 @@
                     Welcome Back
                 </h2>
                 <p class="mt-2 text-sm text-gray-600">
-                    Sign in to your RisiRent account
+                    Sign in to your ZippyRent account
                 </p>
             </div>
 

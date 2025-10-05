@@ -5,30 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}</title>
+    <title>{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}</title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda. Professional property management and guided tours.">
+    <meta name="description" content="Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda. Professional property management and guided tours.">
     <meta name="keywords" content="property rental, Uganda, apartments, houses, villas, real estate, Kampala, property management">
     <meta name="robots" content="index, follow">
     <meta name="language" content="en">
     <meta name="theme-color" content="#2563EB">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="apple-mobile-web-app-title" content="RisiRent">
+    <meta name="apple-mobile-web-app-title" content="ZippyRent">
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}">
-    <meta property="og:description" content="Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda.">
+    <meta property="og:title" content="{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}">
+    <meta property="og:description" content="Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:image" content="{{ asset('favicon.svg') }}">
-    <meta property="og:site_name" content="RisiRent">
+    <meta property="og:site_name" content="ZippyRent">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}">
-    <meta name="twitter:description" content="Find your perfect home with RisiRent. Premium apartments, houses, and villas for rent in Uganda.">
+    <meta name="twitter:title" content="{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}">
+    <meta name="twitter:description" content="Find your perfect home with ZippyRent. Premium apartments, houses, and villas for rent in Uganda.">
     <meta name="twitter:image" content="{{ asset('favicon.svg') }}">
 
     <!-- Canonical URL -->
@@ -50,7 +50,7 @@
     {
         "@context": "https://schema.org",
         "@type": "RealEstateAgent",
-        "name": "RisiRent",
+        "name": "ZippyRent",
         "description": "Premium property rental service in Uganda",
         "url": "{{ url('/') }}",
         "logo": "{{ asset('favicon.svg') }}",
@@ -107,7 +107,7 @@
                             </svg>
                         </div>
                         <div class="hidden sm:block">
-                            <h1 class="text-xl lg:text-2xl font-bold text-gray-900">RisiRent</h1>
+                            <h1 class="text-xl lg:text-2xl font-bold text-gray-900">ZippyRent</h1>
                             <p class="text-xs text-gray-600 -mt-1">Premium Properties</p>
                         </div>
                     </a>
@@ -240,7 +240,7 @@
                         <svg class="h-8 w-8 text-blue-400" fill="currentColor" viewBox="0 0 24 24">
                             <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
                         </svg>
-                        <h3 class="text-2xl font-bold">RisiRent</h3>
+                        <h3 class="text-2xl font-bold">ZippyRent</h3>
                     </div>
                     <p class="text-gray-300 mb-4 max-w-md">
                         Your trusted partner for premium property rentals in Uganda. We connect you with the perfect home that matches your lifestyle and budget.
@@ -299,7 +299,7 @@
             </div>
 
             <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; {{ date('Y') }} RisiRent. All rights reserved. | Premium Property Rentals in Uganda</p>
+                <p>&copy; {{ date('Y') }} ZippyRent. All rights reserved. | Premium Property Rentals in Uganda</p>
             </div>
         </div>
     </footer>

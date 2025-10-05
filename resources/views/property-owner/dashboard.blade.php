@@ -1,4 +1,4 @@
-<x-app-layout title="Property Owner Dashboard - RisiRent" description="Property owner dashboard for managing properties.">
+<x-app-layout title="Property Owner Dashboard - ZippyRent" description="Property owner dashboard for managing properties.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Header -->
         <div class="bg-white shadow-sm border-b">

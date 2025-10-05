@@ -1,4 +1,4 @@
-<x-app-layout title="Dashboard - RisiRent" description="Manage your properties and account settings.">
+<x-app-layout title="Dashboard - ZippyRent" description="Manage your properties and account settings.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Header -->
         <div class="bg-white shadow-sm">

@@ -1,4 +1,4 @@
-<x-app-layout title="Agent Dashboard - RisiRent" description="Agent dashboard for managing properties.">
+<x-app-layout title="Agent Dashboard - ZippyRent" description="Agent dashboard for managing properties.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Header -->
         <div class="bg-white shadow-sm border-b">

@@ -1,4 +1,4 @@
-name: Deploy RisiRent to Hostinger 🚀
+name: Deploy ZippyRent to Hostinger 🚀
 
 # Trigger deployment on main branch push
 on:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    name: Deploy RisiRent to Hostinger
+    name: Deploy ZippyRent to Hostinger
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: true
@@ -174,4 +174,4 @@ jobs:
       - name: Verify deployment
         run: |
           echo "Deployment completed successfully!"
-          echo "RisiRent application should now be available at: https://zippyug.com"
+          echo "ZippyRent application should now be available at: https://zippyug.com"

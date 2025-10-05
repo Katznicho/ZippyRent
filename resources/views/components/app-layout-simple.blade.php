@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ $title ?? 'RisiRent - Premium Property Rentals in Uganda' }}</title>
+    <title>{{ $title ?? 'ZippyRent - Premium Property Rentals in Uganda' }}</title>
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -30,7 +30,7 @@
                             </svg>
                         </div>
                         <div class="hidden sm:block">
-                            <h1 class="text-xl lg:text-2xl font-bold text-gray-900">RisiRent</h1>
+                            <h1 class="text-xl lg:text-2xl font-bold text-gray-900">ZippyRent</h1>
                             <p class="text-xs text-gray-600 -mt-1">Premium Properties</p>
                         </div>
                     </a>
@@ -97,7 +97,7 @@
     <!-- Footer -->
     <footer class="bg-gray-900 text-white py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p>&copy; {{ date('Y') }} RisiRent. All rights reserved. | Premium Property Rentals in Uganda</p>
+            <p>&copy; {{ date('Y') }} ZippyRent. All rights reserved. | Premium Property Rentals in Uganda</p>
         </div>
     </footer>
 

@@ -1,4 +1,4 @@
-<x-app-layout title="RisiRent - Find Your Perfect Property" description="Discover amazing properties for rent. Browse, tour, and rent with ease on RisiRent.">
+<x-app-layout title="ZippyRent - Find Your Perfect Property" description="Discover amazing properties for rent. Browse, tour, and rent with ease on ZippyRent.">
     <!-- Hero Section -->
     <section class="relative bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white overflow-hidden">
         <!-- Background Pattern -->
@@ -128,7 +128,7 @@
                     </svg>
                     Trusted Platform
                 </div>
-                <h2 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-4">Why Choose RisiRent?</h2>
+                <h2 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-4">Why Choose ZippyRent?</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">We're Uganda's leading property platform with unmatched service and reliability.</p>
             </div>
             
@@ -330,7 +330,7 @@
                     Advanced Features
                 </div>
                 <h2 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-4">Everything You Need</h2>
-                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Discover the powerful features that make RisiRent the best choice for property rentals.</p>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Discover the powerful features that make ZippyRent the best choice for property rentals.</p>
             </div>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -835,7 +835,7 @@
                             </svg>
                         </div>
                     </div>
-                    <p class="text-gray-600 mb-6 leading-relaxed">"RisiRent made finding my dream apartment so easy! The virtual tour feature was amazing and saved me so much time. Highly recommended!"</p>
+                    <p class="text-gray-600 mb-6 leading-relaxed">"ZippyRent made finding my dream apartment so easy! The virtual tour feature was amazing and saved me so much time. Highly recommended!"</p>
                     <div class="flex items-center">
                         <div class="w-12 h-12 bg-gradient-to-br from-blue-400 to-blue-600 rounded-full flex items-center justify-center text-white font-bold text-lg mr-4">
                             SM
@@ -911,7 +911,7 @@
                             </svg>
                         </div>
                     </div>
-                    <p class="text-gray-600 mb-6 leading-relaxed">"As a property owner, RisiRent has been fantastic for listing my properties. The platform is professional and I've had great success finding quality tenants."</p>
+                    <p class="text-gray-600 mb-6 leading-relaxed">"As a property owner, ZippyRent has been fantastic for listing my properties. The platform is professional and I've had great success finding quality tenants."</p>
                     <div class="flex items-center">
                         <div class="w-12 h-12 bg-gradient-to-br from-purple-400 to-purple-600 rounded-full flex items-center justify-center text-white font-bold text-lg mr-4">
                             MN
@@ -941,7 +941,7 @@
                     </svg>
                     Simple Process
                 </div>
-                <h2 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-4">How RisiRent Works</h2>
+                <h2 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-4">How ZippyRent Works</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">Get started in just three simple steps and find your perfect property in no time.</p>
             </div>
             
@@ -1034,7 +1034,7 @@
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-400">Perfect Property?</span>
             </h2>
             <p class="text-xl sm:text-2xl mb-10 text-blue-100 max-w-3xl mx-auto leading-relaxed">
-                Join thousands of satisfied customers who found their dream homes with RisiRent. 
+                Join thousands of satisfied customers who found their dream homes with ZippyRent. 
                 <span class="text-orange-300 font-semibold">Your perfect property is just a click away!</span>
             </p>
             
@@ -1084,7 +1084,7 @@
 
     <!-- Floating WhatsApp Button -->
     <div class="fixed bottom-6 right-6 z-50">
-        <a href="https://wa.me/256759983853?text=Hi%20I%20would%20like%20to%20know%20more%20about%20RisiRent%20properties" 
+        <a href="https://wa.me/256759983853?text=Hi%20I%20would%20like%20to%20know%20more%20about%20ZippyRent%20properties" 
            target="_blank" 
            class="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 animate-pulse">
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">

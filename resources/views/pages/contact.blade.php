@@ -1,4 +1,4 @@
-<x-app-layout title="Contact Us - RisiRent" description="Get in touch with RisiRent for property inquiries, support, or partnerships. We're here to help you find your perfect home in Uganda.">
+<x-app-layout title="Contact Us - ZippyRent" description="Get in touch with ZippyRent for property inquiries, support, or partnerships. We're here to help you find your perfect home in Uganda.">
     <div class="bg-gray-50 min-h-screen">
         <!-- Hero Section -->
         <section class="relative bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white overflow-hidden">
